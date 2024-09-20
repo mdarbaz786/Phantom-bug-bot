@@ -8,14 +8,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348108395270"
-global.ownername = "*Phantom+Hacker"
+global.ownernomer = "917478172267"
+global.ownername = "*Arbaz+Hacker"
 global.ytname = "YT: phantom-hacks01"
 global.socialm = ""
 global.location = "India, Mizoram, Aizawl"
 
-global.ownernumber = '2348108395270'  //creator number
-global.ownername = 'Phantom+Hacker' //owner name
+global.ownernumber = '917478172267'  //creator number
+global.ownername = 'Arbaz+Hacker' //owner name
 global.botname = 'xbug bot' //name of the bot
 
 //sticker details
@@ -27,19 +27,19 @@ global.themeemoji = '😡'
 global.wm = "Phantom"
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaBROanEquiLW3ii1n47'
+global.link = 'https://whatsapp.com/channel/0029VagjpXt3gvWULXD4Fb3h'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
-global.autoRecording = false //auto recording
-global.autoTyping = false //auto typing
-global.autorecordtype = false //auto typing + recording
+global.autoRecording = true //auto recording
+global.autoTyping = true //auto typing
+global.autorecordtype = true //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
-global.autoswview = false //auto view status/story
+global.autoswview = true //auto view status/story
 
 //menu type 
 //v1 is image menu, 
@@ -51,7 +51,7 @@ global.typemenu = 'v1'
 //reply messages
 global.mess = {
     done: 'Done !',
-    prem: 'This feature can be used by premium user only',
+    prem: 'This feature can be used by https://whatsapp.com/channel/0029VagjpXt3gvWULXD4Fb3h user only',
     admin: 'This feature can be used by admin only',
     botAdmin: 'This feature can only be used when the bot is a group admin ',
     owner: 'This feature can be used by owner only',
