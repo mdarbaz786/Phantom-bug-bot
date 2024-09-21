@@ -27,7 +27,7 @@ global.themeemoji = '😡'
 global.wm = "Phantom"
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VagjpXt3gvWULXD4Fb3h'
+global.link = 'https://wa.me/+917478172267?text=*🌸⃝⃪꯭⃮⃕⃔⎯꯭᳝֟፝֟Arbaz-khan📌🧸͢-≛⃞*'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
@@ -51,8 +51,8 @@ global.typemenu = 'v1'
 //reply messages
 global.mess = {
     done: 'Done !',
-    prem: 'This feature can be used by https://whatsapp.com/channel/0029VagjpXt3gvWULXD4Fb3h user only',
-    admin: 'This feature can be used by admin only',
+    prem: 'This feature can be used by 917478172267 user only',
+    admin: 'This feature can be used by 917478172267 only',
     botAdmin: 'This feature can only be used when the bot is a group admin ',
     owner: 'This feature can be used by owner only',
     group: 'This feature is only for groups',
